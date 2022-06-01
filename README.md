@@ -1,7 +1,7 @@
 # go-go-gophers
 
 ## Description
-An API written in GO about Gophers
+An API written in GO about Gophers.
 
 ## Endpoints
 ``` markdown
